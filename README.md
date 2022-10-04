@@ -17,7 +17,7 @@
 
 <br/>
 
-### 🛠 &nbsp;**Techs i love working with so far**
+### 🛠 &nbsp;**techs I love working with so far**
 
 
 ![Python](https://img.shields.io/badge/-Python-01051a?style=flat&logo=python)&nbsp;
