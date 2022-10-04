@@ -1,7 +1,7 @@
 
 <div align="center" width="50">
 
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am **Zawinai**. But call me **Zor** . 
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am **Zawinai**. 
 
   -----
   <br/>
