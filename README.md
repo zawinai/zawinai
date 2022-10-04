@@ -1,16 +1,27 @@
 
 <div align="center" width="50">
 
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am **Zawinai**. But call me **Zor** *`if you want of course`*. 
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am **Zawinai**. But call me **Zor** . 
 
 <br/>
 
-<h2>
-  I am a self-taught developer from Myanmar and i love to work with technologies and thrive for entrepreneurship. ever since I was a little one i literally taught myself without the help of my elders like almost everything that i know today like a new language, swimming, painting which is i'm no lo longer interested in however, so i do that ✌"teaching myself"✌ thing a lot to myself because that excites me. the most significant thing that i taught myself ever in my life will be a programming languae, so back in the year 2020 I learnt 2 programming languages python & javascript via youtube.
-</h2>
-
+<h3>
+  I am an ambiverted self-taught developer from Myanmar and i love to work with technologies and thrive for entrepreneurship. ever since I was a little one i literally taught myself without the help of my elders like almost everything that i know today like a new language, swimming, painting which is i'm no lo longer interested in however, so i do that ✌"teaching myself"✌ thing a lot to myself because that excites me. the most significant thing that i taught myself ever in my life will be a programming languae, so back in the year 2020 I learnt 2 programming languages python & javascript via youtube. then i proceeded to learn new frameworks and other related technologies to help me land a job. lastly i always think to myself the most exciting part of life is continuosly discovering new things enjoy the process rather than result but at the end of the day what we will ultimately learn will be..
+</h3>
 <br/>
 
+  <img src="https://i.imgur.com/oXpKqZU.jpeg" alt="Welcome!" width="300"/>  
+
+  <br/>
+
+  <br/>
+
+    "The only thing i know is that i know nothing.."
+
+  <br/>
+
+  -----
+  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawinai&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
