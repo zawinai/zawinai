@@ -8,7 +8,7 @@
   <br/>
 
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=d8e82c&size=25&center=true&vCenter=true&width=600&height=100&lines=&hearts;+Thanks+for+viewing+my+profile..&hearts;+;+here+are+some+jokes;+that+i+copied+from+somewhere..;+Q:+Relationship+status?;+A:+I'll+leave+the+relations;+to+the+database.;+Q:+A+SQL+developer+;walked+into+a+NoSQL+bar.;+A:They+left+because;+they+couldn't+find+a+table.;+Q:+What+do+you+call+a+busy+waiter?;+A:++A+server.;+Q:+Where+did+the+parallel+function;+wash+its+hands?;+A:+Async;+Q:+What+did+the+spider;+do+on+the+computer?;+A:+A+Web;+I+never+tell+the+same+joke+twice;I+Have+a+DRY+sence+of+humor;+Q+Why+was+the+computer+freezing?;+A:+It+left+its+Windows+open!">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=d8e82c&size=25&center=true&vCenter=true&width=600&height=100&lines=&hearts;+hearts;+;+here+are+some+jokes;+that+i+copied+from+somewhere..;+Q:+Relationship+status?;+A:+I'll+leave+the+relations;+to+the+database.;+Q:+A+SQL+developer+;walked+into+a+NoSQL+bar.;+A:They+left+because;+they+couldn't+find+a+table.;+Q:+What+do+you+call+a+busy+waiter?;+A:++A+server.;+Q:+Where+did+the+parallel+function;+wash+its+hands?;+A:+Async;+Q:+What+did+the+spider;+do+on+the+computer?;+A:+A+Web;+I+never+tell+the+same+joke+twice;I+Have+a+DRY+sence+of+humor;+Q+Why+was+the+computer+freezing?;+A:+It+left+its+Windows+open!">
   </a>
 </p>
 
