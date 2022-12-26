@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-### Hi <img src="https://cdn.discordapp.com/emojis/635255815317487647.gif?size=64">, I am **Zor**
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://cdn.discordapp.com/emojis/635255815317487647.gif?size=64">, I am **Zor**
 
 #### Thanks for visiting my profile, Here some food for you 🍦🍒🍌
 
