@@ -43,6 +43,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=01051a?style=flat&logo=express)&nbsp;
 ![Next js](https://img.shields.io/badge/Next.js-000000?style=01051a?style=flat&logo=Next.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-01051a?style=flat&logo=mongodb)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-01051a?style=flat&logo=firebase)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-01051a?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-01051a?style=flat&logo=git)&nbsp;
 
